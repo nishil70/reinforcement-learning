@@ -1,9 +1,9 @@
 # Reinforcement Learning
 Learning from interaction is a foundational idea underlying nearly all theories of learning and intelligence.
 Funadamental idea in reinforcement learning is:
-- learning what to do
+- Learning what to do
   - how to map situations to actions so as to maximize a numerical reward
-- a learner is not told which actions to take
+- Learner is not told which actions to take
   - must discover which actions yield the most reward by trying them
 
 
