@@ -11,7 +11,8 @@ Funadamental idea in reinforcement learning is:
 - Nishil Parmar
 
 ## Implementions
-- Q-learning approach to learning  
+- Q-learning approach
+- Treasure hunting
 
 ## Approach
 - The reason i selected Q-learning algorithm is because it is one of the most popular approach in reinforcement learning
